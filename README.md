@@ -193,7 +193,29 @@ plt.show()
 
 
 # OUPUT:
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/511d3d9f-b6ba-44f9-ae5e-f286773f7509)
-
+## DATA PREPROCESSING BEFORE FEATURE SELECTION:
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/801b9c66-3d60-4511-9930-5ccb578a76b8)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/b3d96036-a1a1-4406-bce6-63bdb7e8c6ae)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/1714cbf6-b9ae-45b9-82c5-bea269d1d1c6)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/228fd02e-26eb-43c5-80ed-5f64a5cd1cfa)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/57c6dfaa-2470-4199-ba37-4e24c542956b)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/053b6a6a-dad4-4a50-a6e1-ffeec327a553)
+# FEATURE SELECTION:
+## FILTER METHOD:
+The filtering here is done using correlation matrix and it is most commonly done using Pearson correlation.
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/3021e98f-98cb-47d0-8e3c-04201b4333fb)
+## CORRELATED FEATURES WITH THE OUTPUT VARIABLE SURVIVED:
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/3e8c0b36-ddd3-4d2b-91a1-f45b80eeb60d)
+## HIGHLY CORRELATED FEATURES WITH THE OUTPUT VARIABLE SURVIVED:
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/a9fa5229-14e0-46e4-b512-089cf1d1b392)
+## WRAPPER METHOD:
+Wrapper Method is an iterative and computationally expensive process but it is more accurate than the filter method.
+There are different wrapper methods such as Backward Elimination, Forward Selection, Bidirectional Elimination and RFE.
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/6bd1af88-3223-465e-8ae5-6bb18db60ae5)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/e9bbdc53-fe12-4a84-b555-487adc98be0e)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/5d86c1ec-f876-4d4d-a964-bd315bf751a8)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/d31a14a1-f801-4365-bc4d-b17b6df50610)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/acb3f050-27f5-488e-8215-471272aacd0b)
 
+# RESULT :
+Thus, the various feature selection techniques have been performed on a given dataset successfully.
