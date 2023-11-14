@@ -1,14 +1,15 @@
-# Ex-07-Feature-Selection
+# Ex NO : 07  Feature Selection Techniques
 
+## DATE : 
 
 ## AIM
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
 
-# Explanation
+## Explanation
 Feature selection is to find the best set of features that allows one to build useful models.
 Selecting the best features helps the model to perform well. 
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -19,8 +20,10 @@ Apply Feature selection techniques to all the features of the data set
 Save the data to the file
 
 
-# CODE
-NAME: YUGENDARAN.G
+## CODE:
+
+DEVELOPED BY : YUGENDARAN.G
+
 REGISTER NO.:212221220063
 ```
 # DATA PREPROCESSING BEFORE FEATURE SELECTION:
@@ -192,7 +195,7 @@ plt.show()
 ```
 
 
-# OUPUT:
+## OUPUT:
 ## DATA PREPROCESSING BEFORE FEATURE SELECTION:
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/801b9c66-3d60-4511-9930-5ccb578a76b8)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/b3d96036-a1a1-4406-bce6-63bdb7e8c6ae)
@@ -217,5 +220,5 @@ There are different wrapper methods such as Backward Elimination, Forward Select
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/d31a14a1-f801-4365-bc4d-b17b6df50610)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-07/assets/128135616/acb3f050-27f5-488e-8215-471272aacd0b)
 
-# RESULT :
+## RESULT :
 Thus, the various feature selection techniques have been performed on a given dataset successfully.
